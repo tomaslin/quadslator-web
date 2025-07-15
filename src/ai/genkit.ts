@@ -1,4 +1,4 @@
-import {genkit} from 'genkit';
+gtimport {genkit} from 'genkit';
 import {googleAI} from '@genkit-ai/googleai';
 
 export const ai = genkit({
